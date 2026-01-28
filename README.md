@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
 <h3 align="center">Aspiring AI Engineer| Merging Academic Knowledge with Practical Skills to Build Intelligent Systems for Tomorrow | Exploring #GenerativeAI & #NeuralNetworks</h3>
 
- <img align="right" alt=" Codding " width=" 400 " src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt=" Codding " width=" 300 " src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshsharma0&label=Profile%20views&color=0e75b6&style=flat" alt="deveshsharma0" /> </p> -->
 
