@@ -74,14 +74,9 @@
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-sharma0/" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/devesh-sharma0/" height="30" width="40" /></a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-        width="52" height="40" alt="twitter logo" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-        width="52" height="40" alt="discord logo" />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
         width="52" height="40" alt="gmail logo" />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-        width="52" height="40" alt="instagram logo" />
+    
 </div>
 
 
