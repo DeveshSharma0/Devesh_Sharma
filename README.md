@@ -1,11 +1,11 @@
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" > 
+
 
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
 <h3 align="center">Aspiring AI Engineer| Merging Academic Knowledge with Practical Skills to Build Intelligent Systems
     for Tomorrow | Exploring #GenerativeAI & #NeuralNetworks</h3>
 
 <h3 align="center">- 🌱 I’m Currently learning:- B.Tech ( C.S.E )</h3>
-
+ <hr>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -72,18 +72,19 @@
         width="52" height="40" alt="gmail logo" />
     
 </div>
-
+ <hr>
+ 
+<img align="right"
+        src="https://github-readme-stats.vercel.app/api?username=deveshsharma0&show_icons=true&locale=en">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsharma0&"
+        alt="deveshsharma0" />
+        
+<hr>
+        
 <img align="right" height="200"
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-<br>
-
-<p><img align="left"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> 
+<img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsharma0&show_icons=true&locale=en&layout=compact"
-        alt="deveshsharma0" /></p>
+        alt="deveshsharma0" />
 
-<p>&nbsp;<img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=deveshsharma0&show_icons=true&locale=en"
-        alt="deveshsharma0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsharma0&"
-        alt="deveshsharma0" /></p>
