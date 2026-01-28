@@ -62,15 +62,9 @@
 
 </div>
 
+<h3 align="center">Connect with me:</h3>
 
-
-<img align="right" height="200"
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
+<div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-sharma0/" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/devesh-sharma0/" height="30" width="40" /></a>
@@ -78,6 +72,9 @@
         width="52" height="40" alt="gmail logo" />
     
 </div>
+
+<img align="right" height="200"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 
 <p><img align="left"
