@@ -64,7 +64,6 @@
         alt="linux logo" />
 
 </div>
-
 <h3 align="left">2. Connect with me:</h3>
 
 <div align="left">
