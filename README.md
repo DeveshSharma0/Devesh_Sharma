@@ -1,4 +1,4 @@
-
+<img width="1584" height="396" alt="Untitled" src="https://github.com/user-attachments/assets/ce0dec2a-3719-46c0-9ca3-f1aa76553818" />
 
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
 <h3 align="center">Aspiring AI Engineer| Merging Academic Knowledge with Practical Skills to Build Intelligent Systems
@@ -7,7 +7,10 @@
 <h3 align="center">- 🌱 I’m Currently learning:- B.Tech ( C.S.E )</h3>
  <hr>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">1. Languages and Tools:</h3>
+
+<img align="right" height="200"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> 
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
@@ -62,9 +65,9 @@
 
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">2. Connect with me:</h3>
 
-<div align="center">
+<div align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-sharma0/" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/devesh-sharma0/" height="30" width="40" /></a>
@@ -72,19 +75,7 @@
         width="52" height="40" alt="gmail logo" />
     
 </div>
- <hr>
- 
-<img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=deveshsharma0&show_icons=true&locale=en">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsharma0&"
-        alt="deveshsharma0" />
-        
-<hr>
-        
-<img align="right" height="200"
-    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> 
-<img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsharma0&show_icons=true&locale=en&layout=compact"
-        alt="deveshsharma0" />
+   
+
 
 
